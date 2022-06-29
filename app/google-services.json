@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75453335724",
+    "project_id": "acecollab-2cad7",
+    "storage_bucket": "acecollab-2cad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75453335724:android:201b6c4e5e9470a993f709",
+        "android_client_info": {
+          "package_name": "tanu.project.acecollab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75453335724-8ntciel5rvmdhuj0ilos0bvvqqv2qgof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCOhnMevL0D6XxIAom7B8wyYMOwlNv-Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75453335724-8ntciel5rvmdhuj0ilos0bvvqqv2qgof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
